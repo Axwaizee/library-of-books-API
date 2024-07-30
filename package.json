@@ -1,0 +1,17 @@
+{
+  "name": "library-of-books",
+  "version": "1.0.0",
+  "description": "a RESTful API for managing a library of books. Implement CRUD (Create, Read, Update, Delete) operations for books with fields such as title, author, genre, and published date.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "axwaizee",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  }
+}
